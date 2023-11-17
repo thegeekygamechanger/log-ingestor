@@ -19,7 +19,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 - [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
 ```
