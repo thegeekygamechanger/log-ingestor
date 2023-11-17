@@ -1,6 +1,6 @@
 # Log Ingestor System
 
-This project is a log ingestor system that can efficiently handle vast volumes of log data, and offer a simple interface for querying this data using full-text search or specific field filters. The system is built using Node.js, Express.js, and MongoDB.
+This project is a log ingestor system that can efficiently handle vast volumes of log data, and offer a simple interface for querying this data using full-text search or specific field filters. The system is built using Node.js, javascript, and MongoDB.
 
 ## Getting Started
 
@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - Node.js
+- JavaScript
 - MongoDB
 
 ### Installing
@@ -22,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [MongoDB](https://www.mongodb.com/)
 
 ```
-git clone https://github.com/yourusername/log-ingestor-system.git
+git clone https://github.com/thegeekygamechanger/log-ingestor.git
 ```
 
 2. Install dependencies
