@@ -53,4 +53,4 @@ The query interface can be accessed by making a GET request to `/api/query` with
 - `server.js`: The main server file. It sets up the Express.js server and connects to the MongoDB database.
 - `logIngestor.js`: Handles the ingestion of logs. It defines a POST route that saves the incoming log data to the database.
 - `queryInterface.js`: Handles querying of logs. It defines a GET route that retrieves logs from the database based on the provided filters.
-- `database
+- `database.js`: Defines the schema for the log data and creates an index to improve search performance.
